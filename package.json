@@ -1,0 +1,13 @@
+{
+  "version": "0.0.0",
+  "name": "http2-tutorial",
+  "description": "Simple HTTP2 tutorial.",
+  "license": "WTFPL",
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "http2": "^3.3.6"
+  }
+}
